@@ -1,0 +1,29 @@
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  top: 1em;
+  flex-direction: column;
+  align-items: center;
+}
+
+.td {
+  margin-bottom: 22px;
+}
+
+.title {
+  font-size: 3em;
+  padding-bottom: 2em;
+}
+
+td {
+  display: flexbox;
+  padding: 1.5em;
+  background-color: rgb(139, 181, 236);
+}
+
+img {
+  float: left;
+  padding-right: 2.5em;
+}
